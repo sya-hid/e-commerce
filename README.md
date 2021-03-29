@@ -1,6 +1,6 @@
 # ecommerce
 
-A new Flutter project.
+Tutorial by  The Flutter Way
 
 ## Getting Started
 
