@@ -1,6 +1,7 @@
 # ecommerce
 
 Tutorial by  The Flutter Way
+Flutter 1.22.6
 
 ## Getting Started
 
